@@ -1,0 +1,7 @@
+C:\Users\ujipe\Google Drive\Programação\C#\Projetos\Xadrez - Seção 12\Xadrez - Seção 12\bin\Debug\Xadrez - Seção 12.exe.config
+C:\Users\ujipe\Google Drive\Programação\C#\Projetos\Xadrez - Seção 12\Xadrez - Seção 12\bin\Debug\Xadrez - Seção 12.exe
+C:\Users\ujipe\Google Drive\Programação\C#\Projetos\Xadrez - Seção 12\Xadrez - Seção 12\bin\Debug\Xadrez - Seção 12.pdb
+C:\Users\ujipe\Google Drive\Programação\C#\Projetos\Xadrez - Seção 12\Xadrez - Seção 12\obj\Debug\Xadrez - Seção 12.csprojAssemblyReference.cache
+C:\Users\ujipe\Google Drive\Programação\C#\Projetos\Xadrez - Seção 12\Xadrez - Seção 12\obj\Debug\Xadrez - Seção 12.csproj.CoreCompileInputs.cache
+C:\Users\ujipe\Google Drive\Programação\C#\Projetos\Xadrez - Seção 12\Xadrez - Seção 12\obj\Debug\Xadrez - Seção 12.exe
+C:\Users\ujipe\Google Drive\Programação\C#\Projetos\Xadrez - Seção 12\Xadrez - Seção 12\obj\Debug\Xadrez - Seção 12.pdb
